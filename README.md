@@ -14,9 +14,8 @@ Hello! I'm an iOS developer with a passion for creating beautiful and functional
 
 If you have any questions, suggestions, or just want to chat, feel free to reach out to me:
 
-- [LinkedIn](link to your LinkedIn profile)
-- [Inst]([link to your Twitter profile](https://www.instagram.com/toshee__/))
-- [Email](your email)
+- [LinkedIn](https://www.linkedin.com/in/anton-babko-386810265/)
+- [Inst](https://www.instagram.com/toshee__/)
 
 Feel free to send me a message, I'm always open to new connections and opportunities for collaboration!
 
