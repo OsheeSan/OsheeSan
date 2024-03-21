@@ -11,6 +11,7 @@ Hello! I'm an iOS developer with a passion for creating beautiful and functional
 - Knowledge of version control tools such as Git and GitHub.
 - I have a year of experience in IGambling WebView Apps.
 - Learnt how to work with CI/CD.
+- Have some experience in creating own frameworks (cocoapods+)
 
 ## Get in Touch
 
