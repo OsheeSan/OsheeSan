@@ -7,7 +7,6 @@ Hello! I'm an iOS developer with a passion for creating beautiful and functional
 - Developing mobile applications for iOS using Swift.
 - Proficient in frameworks and libraries such as UIKit, SwiftUI(?), SnapKi, SpriteKit.
 - Ability to work with RESTful APIs and integrate external services.
-- Experience in UI/UX design and creating user interfaces.
 - Knowledge of version control tools such as Git and GitHub.
 - I have a year of experience in IGambling WebView Apps.
 - Learnt how to work with CI/CD.
