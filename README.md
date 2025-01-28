@@ -12,8 +12,6 @@ Hello! I'm an iOS developer with a passion for creating beautiful and functional
 - Learnt how to work with CI/CD.
 - Have some experience in creating own frameworks (cocoapods+)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=30&pause=1000&color=09D648&multiline=true&random=false&width=500&height=90&lines=Nishant+Srivastava;crushingcode.nisrulz.com)](https://git.io/typing-svg)
-
 #### Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osheesan&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osheesan&theme=2077)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osheesan&theme=2077)
